@@ -8,7 +8,7 @@
 * 2. Create your free API key.
 * 3. Your API key will be emailed to you. Activate it via the link.
 * 4. Link your Google Form to a Google Spreadsheet and add this code to the Google Sheet by clicking Tools -> Script Editor, deleting all the text there, and pasting this script.
-* 5. Add your AKI token below to var OMDbApiKey in getMovie().
+* 5. Add your API token below to var OMDbApiKey in getMovie().
 * 6. (Optional) Add an example IMDb link to var firstMovie in primaryFunction().One has been provided already.
 * 7. Create 2 sheets: one called "Movies" and another called "Poll". 
 * 8. Run primaryFunction(). If it fails, run it once again.
